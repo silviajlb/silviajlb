@@ -1,19 +1,31 @@
-<h1 align="left">Hi 👋, I'm Silvia</h1>
-<h3 align="left">A passionate data analyst from Spain</h3>
+# Hola, soy Silvia, Data Scientist! 👋
 
-- 🌱 I’m currently doing a master in **Data Science**
+¡Bienvenido a mi perfil! Actualmente estoy buscando oportunidades para aplicar y desarrollar mis habilidades en el campo de la ciencia de datos.
 
-- 👨‍💻 All of my projects are available here
+## Habilidades
 
-- 📫 How to reach me **jlbsilvia@gmail.com**
+- **Python:** Incluyendo Numpy, Pandas, Scikit-learn
+- **SQL**
+- **Preprocesamiento de Datos**
+- **Visualización de Datos:** PowerBI, Matplotlib, Seaborn
+- **Herramientas de colaboración:** Git, Jupyter Notebooks, Collab
+- **Machine Learning**
+- **Deep Learning:** TensorFlow
+- **Procesamiento de Lenguaje Natural (NLP)**
+- **Computer Vision**
+- **Optimización de Modelos**
+- **Comprensión de Negocios y Comunicación Efectiva de Resultados**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/silvia-data-analyst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/silvia-data-analyst" height="30" width="40" /></a>
-</p>
+## Educación
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- **Data Analytics certificate:** Coursera
+- **Máster en Data Science:** Nulcio Digital School
+
+## Contacto
+- 📫 Correo Electrónico: **jlbsilvia@gmail.com**
+- LinkedIn: [Silvia Data Analyst](https://www.linkedin.com/in/silvia-data-analyst)
+
+
 
 
 
