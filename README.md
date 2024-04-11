@@ -1,3 +1,5 @@
+<!-- Banner -->
+![Banner](Banner.jpg)
 # Hola, soy Silvia, Data Scientist! 👋
 
 ¡Bienvenido a mi perfil! Actualmente estoy buscando oportunidades para aplicar y desarrollar mis habilidades en el campo de la ciencia de datos.
