@@ -25,7 +25,7 @@
 
 ## Contacto
 - 📫 Correo Electrónico: **jlbsilvia@gmail.com**
-- LinkedIn: [Silvia Data Analyst](https://www.linkedin.com/in/silvia-data-analyst)
+- 🔗LinkedIn: [Silvia Data Analyst](https://www.linkedin.com/in/silvia-data-analyst)
 
 
 
